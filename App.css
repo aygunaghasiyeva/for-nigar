@@ -1,0 +1,10 @@
+.app{
+  display: flex;
+}
+.right{
+  margin-left: 300px;
+}
+.over{
+  display: flex;
+  flex-direction: column;
+}
